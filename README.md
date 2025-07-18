@@ -5,7 +5,7 @@ This respository contains the STATA v.18 code required to reproduce the main ana
 To run this code, you will need to download Stata version 18, no additional packages are required.
 
 # Data availability
-Data for this study are not publicably available, due to ethical restrictions. Participants in this study were recruited from health visiting services, thus, the data contains sensitive information. To access the data to reproduce this analysis, please contact Debbie Kwan (nyk26@cam.ac.uk).
+The data that support the findings of this study are available from the corresponding author upon reasonable request. Deidentified participant data, a data dictionary, and other relevant study materials will be made available to bona fide researchers. The data are not publicly available due to privacy and ethical restrictions. To access the data to reproduce this analysis, please contact Debbie Kwan (nyk26@cam.ac.uk).
 
 # Help
 Any issues, please email nyk26@cam.ac.uk 
