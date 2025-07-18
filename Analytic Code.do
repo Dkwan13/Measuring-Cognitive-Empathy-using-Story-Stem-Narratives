@@ -12,6 +12,15 @@ recode child_sex_num (1=1 "Female") (2=2 "Male"), generate(child_sex_recoded)
 (0 differences between child_sex_num and child_sex_recoded)
 
 ------------------------------------------------------------------------------
+// MAIN ANALYSES //
+
+// Interrater Reliability for Final Empathy score //
+
+kappaetc FinalESBB FinalESDK, wgt(ordinal) 
+
+// Internal Consistency for Final Empathy Score //
+
+alpha HKH1 HKH2 TACH1 TACH2 HKC1 HKC2 TACC1 TACC2 HKP1 HKP2 TACP1 TACP2 
 
 // Gender and Empathy //
 
